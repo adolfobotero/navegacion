@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Navegacion</string>
+    <string name="btn_screen_one">Pantalla 1</string>
+    <string name="btn_screen_two">Pantalla 2</string>
+    <string name="btn_back">Atrás</string>
+
+    <string name="txt_name">Digite su nombre</string>
+    <string name="txt_lastname">Digite su apellido</string>
+    <string name="txt_age">Digite su edad</string>
+
+    <string name="txt_car">Digite la marca del carro</string>
+    <string name="txt_color">Digite el color</string>
+    <string name="txt_model">Digite el modelo</string>
+    <string name="txt_value">Digite el valor</string>
+
+</resources>
